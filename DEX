@@ -10,9 +10,7 @@
 	This is the final version of this script.
 	You are encouraged to edit, fork, do whatever with this. I pretty much won't be updating it anymore.
 	Though I would appreciate it if you kept the credits in the script if you enjoy this hard work.
-	
-	If you want more info, you can join the server: https://discord.io/zinnia
-	Note that very limited to no support will be provided.
+
 ]]
 
 local nodes = {}
@@ -26,7 +24,7 @@ Explorer = function()
 	
 	The main explorer interface
 ]]
-
+--newDex
 -- Common Locals
 local Main,Lib,Apps,Settings -- Main Containers
 local Explorer, Properties, ScriptViewer, Notebook -- Major Apps
